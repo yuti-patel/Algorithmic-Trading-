@@ -15,6 +15,9 @@ Medium term: 20 day moving average, bands at 2 standard deviations.
 
 Long term: 50 day moving average, bands at 2.5 standard deviations.
 
+<img width="375" alt="image" src="https://user-images.githubusercontent.com/99968604/176927491-3431e4f0-3f23-4768-8aa2-197cb64a8561.png">
+
+
 Ichimoku Cloud: 
 
 The Ichimoku Cloud is a type of chart used in technical analysis to display support and resistance, momentum, and trend in one view. TenkanSen and KijunSen are similar to moving averages and analyzed in relationship to one another.
@@ -26,4 +29,7 @@ KijunSen (Base Line): (High + Low) / 2 default period = 26
 Chiku Span (Lagging Span): Price Close shifted back 26 bars 
 Senkou A (Leading Span A): (TenkanSen + KijunSen) / 2 (Senkou A is shifted forward 26 bars) 
 Senkou B (Leading Span B): (High + Low) / 2 using period = 52 (Senkou B is shifted forward 26 bars)
+
+<img width="379" alt="image" src="https://user-images.githubusercontent.com/99968604/176927641-cd86934f-b23c-458d-a633-08f276697624.png">
+
 
