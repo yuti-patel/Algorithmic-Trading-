@@ -17,6 +17,14 @@ Long term: 50 day moving average, bands at 2.5 standard deviations.
 
 <img width="375" alt="image" src="https://user-images.githubusercontent.com/99968604/176927491-3431e4f0-3f23-4768-8aa2-197cb64a8561.png">
 
+RSI: 
+The relative strength index (RSI) is a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset. The RSI is displayed as an oscillator (a line graph that moves between two extremes) and can have a reading from 0 to 100.Traditional interpretation and usage of the RSI are that values of 70 or above indicate that a security is becoming overbought or overvalued and may be primed for a trend reversal or corrective pullback in price. An RSI reading of 30 or below indicates an oversold or undervalued condition.
+
+Formula: 
+
+<img width="322" alt="image" src="https://user-images.githubusercontent.com/99968604/177520495-d1a8520c-65c5-4e47-a3ca-737f41d8a296.png">
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/99968604/177520570-c634ea90-9b85-4339-8678-0ce5ce574b91.png">
+
 
 Ichimoku Cloud: 
 
